@@ -1,21 +1,22 @@
-### 👋 Fala aí! Eu sou o João Guilherme
+### 👋 Hey there! I'm João Guilherme
 
-🐍 Desenvolvedor em formação, focado em Python/ focando em  Análise e Desenvolvimento de Sistemas
-🧱 Construindo minha jornada como futuro analista de sistemas/criação de jogos 🌙  
-🚀 Sempre buscando aprender, evoluir e criar coisas novas com código  
+🐍 Developer in training, focused on Python  
+🧱 Building my journey to become a systems analyst/
+game creation  
+🚀 Always looking to learn, grow, and create cool stuff with code  
 
 ---
 
-### 💻 Linguagem que estou usando no momento
+### 💻 Language I'm currently using
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 
 ---
 
-### 🛠️ Ferramentas que uso
+### 🛠️ Tools I use
 
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 
 ---
@@ -26,4 +27,4 @@
 
 ---
 
-> 🧠 *"Codando um futuro do zero, com paixão e propósito."*
+> 🧠 *"Bye Bye."*
