@@ -1,26 +1,22 @@
-### 👋 Olá! Eu sou o Gui Freitas
+### 👋 Fala aí! Eu sou o João Guilherme
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas 
-🐍 Focado em aprender Python e quem sabe um dia me tornar um programador foca na area de games   
-🧠 Curioso por tudo que envolve tecnologia, programação e criação digital  
-🚀 Buscando evoluir todos os dias e conquistar meu espaço na área tech  
-
----
-
-### 🧠 Interesses
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Web Design](https://img.shields.io/badge/Web%20Design-333333?style=flat&logo=figma)
-![Desenvolvimento de Sistemas](https://img.shields.io/badge/Sistemas-007ACC?style=flat)
-![Open Source](https://img.shields.io/badge/Open%20Source-181717?style=flat&logo=github)
+🐍 Desenvolvedor em formação, focado em Python/ focando em  Análise e Desenvolvimento de Sistemas
+🧱 Construindo minha jornada como futuro analista de sistemas/criação de jogos 🌙  
+🚀 Sempre buscando aprender, evoluir e criar coisas novas com código  
 
 ---
 
-### 🛠️ Ferramentas e Tecnologias que uso
+### 💻 Linguagem que estou usando no momento
 
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+
+---
+
+### 🛠️ Ferramentas que uso
+
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 
 ---
 
@@ -30,10 +26,4 @@
 
 ---
 
-### 📫 Onde me encontrar
-
-Em breve...
-
----
-
-> 💬 *“A cada linha de código, um passo mais perto dos meus objetivos.”*
+> 🧠 *"Codando um futuro do zero, com paixão e propósito."*
