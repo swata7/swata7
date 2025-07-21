@@ -2,7 +2,14 @@
 
 🐍 Developer in training, focused on Python  
 🧱 Building my journey to become a systems analyst / front end  
-🚀 Always looking to learn, grow, and create cool stuff with code  
+🚀 Always looking to learn, grow, and create cool stuff with code
+🎨 Mastering HTML, CSS, and JavaScript to build awesome front-end projects.
+
+---
+
+### Welcome to my coding world.
+
+Front-end developer in training, passionate about creating interactive and responsive web projects using modern technologies. Currently building personal front-end projects to sharpen my skills.
 
 ---
 
