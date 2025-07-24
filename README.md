@@ -1,6 +1,6 @@
 ### 👋 Hey there! I'm João Guilherme
 
-🐍 Developer in training, focused on Python  
+👨‍💻 Developer in training, focused on HTML,CSS and JavaScript  
 🧱 Building my journey to become a systems analyst / front end  
 🚀 Always looking to learn, grow, and create cool stuff with code
 🎨 Mastering HTML, CSS, and JavaScript to build awesome front-end projects.
